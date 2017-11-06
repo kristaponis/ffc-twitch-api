@@ -1,0 +1,33 @@
+body {
+  background-color: #e0e0e0; }
+
+.name {
+  color: #eee;
+  margin: 0 20px; }
+
+a,
+a:hover {
+  color: #eee; }
+
+.content {
+  margin: 50px auto;
+  width: 600px;
+  height: 450px;
+  background-color: #616161; }
+
+.header {
+  padding: 20px;
+  color: #eee; }
+
+.stream {
+  display: flex;
+  margin: 5px;
+  padding: 20px 0; }
+
+.green {
+  background-color: #81c784; }
+
+.red {
+  background-color: #e57373; }
+
+/*# sourceMappingURL=style.css.map */
