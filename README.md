@@ -11,6 +11,8 @@ Green color - online
 
 Red color - offline
 
+See it on [Codepen.io](https://codepen.io/ArturasK/full/zdEoYL/)
+
 #
 
 #### Html | Scss | JQuery
