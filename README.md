@@ -1,4 +1,5 @@
 # Twitch Tv API for freeCodeCamp zipline.
+[![DUB](https://img.shields.io/badge/freeCodeCamp-zipline-brightgreen.svg)]() 
 
 ## 4 Channels:
 
